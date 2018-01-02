@@ -9,10 +9,10 @@
     - vars/vscode.yml
     
   roles:
-    - ansible
+    #- ansible
     - brew
     - dock
-    - mas
+    #- mas
     - packages
     - dotfiles
     - vscode
