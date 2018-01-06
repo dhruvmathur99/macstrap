@@ -5,7 +5,7 @@
     "editor.wordWrap": "off",
     "editor.minimap.enabled": true,
     "editor.formatOnPaste": false,
-    "files.autoSave": "onFocusChange",
+    "files.autoSave": "afterDelay",
     "files.exclude": {
         "**/*.pyc": true,
         "**/*.a": true,
@@ -67,10 +67,10 @@
         "**/yarn.lock": true
     },
     "window.reopenFolders": "all",
-    "window.zoomLevel": 0,
+    "window.zoomLevel": -1,
     "workbench.colorTheme": "One Dark Pro",
     "workbench.iconTheme": "material-icon-theme",
-    "terminal.integrated.fontFamily": "Knack Nerd Font, Menlo,DejaVu Sans Mono, Consolas,Lucida Console, monospace"
+    "terminal.integrated.fontFamily": "Knack Nerd Font, Menlo,DejaVu Sans Mono, Consolas,Lucida Console, monospace",
     "terminal.external.osxExec": "Hyper.app",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,

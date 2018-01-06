@@ -157,3 +157,9 @@ function blt() {
   fi
 }
 
+
+# ruby version control
+source /usr/local/opt/chruby/share/chruby/chruby.sh
+source /usr/local/opt/chruby/share/chruby/auto.sh
+# echo "ruby-2.5.0" > ~/.ruby-version
+chruby ruby-2.5.0
