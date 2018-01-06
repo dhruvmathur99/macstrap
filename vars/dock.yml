@@ -40,3 +40,6 @@ dockitems_to_persist:
   - name: Fantastical 2
     path: "/Applications/Fantastical 2.app"
     pos: 8
+  - name: Firefox
+    path: "/Applications/Firefox.app"
+    pos: 9

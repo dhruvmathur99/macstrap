@@ -23,6 +23,7 @@ homebrew_installed_packages:
 
 homebrew_cask_apps:
   - google-chrome
+  - firefox
   - slack
   - docker
   - spotify
